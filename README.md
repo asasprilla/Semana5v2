@@ -1,2 +1,2 @@
 # Semana5
-Hola. Adjunto archivos correspondientes a la semana 5 implementando bases de datos. El código tiene un pequeño bug, el cual no pude descifrar a pesar de que seguí las instruccciones del curso al pie de la letra y busqué en internet durante días por alguna solución; el detalle es que los datos de la base de datos se duplican al momento de cambiar de actividades, espero que con la ayuda de alguien de aquí pueda descubrir la razón... gracias
+Hola. Adjunto archivos correspondientes a la semana 5 implementando bases de datos con las funcionalidades requeridas. Acepto sugerencia de cómo prevenir que se inserten valores duplicados al usar el parámetro INTEGER PRIMARY KEY AUTOINCREMENT... gracias
